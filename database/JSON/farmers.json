@@ -1,0 +1,58 @@
+[
+    {
+        "name" : "Asadullah",
+        "email" : "asad@gamil.com",
+        "age"  : 23,
+        "city" : 1
+
+    },
+    {
+        "name" : "Muhammad Hanif",
+        "email" : "Hanif@gmail.com",
+        "age"  : 24,
+        "city" : 1
+
+    },
+    {
+        "name" : "Hilal Akhtar",
+        "email" : "Hilal@gamil.com",
+        "age"  : 23,
+        "city" : 2
+
+    },
+    {
+        "name" : "Abbas khan",
+        "email" : "abbas@gamil.conm",
+        "age"  : 23,
+        "city" : 2
+
+    },
+     {
+        "name" : "nigar ahmad",
+        "email" : "nigar@gmail.com",
+        "age"  : 24,
+        "city" : 1
+
+    },
+    {
+        "name" :  "Muhammad Hammad",
+        "email" : "Hammad@gamil.com",
+        "age"  : 24,
+        "city" : 2
+
+    },
+    {
+        "name" : "aizaz Muhammad",
+        "email" : "aizaz@gamil.com",
+        "age"  : 24,
+        "city" : 3
+
+    },
+    {
+        "name" :  "zalan fazal",
+        "email" : "zalan@gmail.com",
+        "age"  :  22,
+        "city" : 4
+
+    }
+]

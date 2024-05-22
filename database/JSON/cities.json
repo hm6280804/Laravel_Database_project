@@ -1,0 +1,21 @@
+[
+    {
+        "id" : 1,
+        "city_name" : "Mardan"
+    },
+
+    {
+        "id" : 2,
+        "city_name" : "katlang"
+    },
+
+    {
+        "id" : 3,
+        "city_name" : "Takht bhai"
+    },
+
+    {
+        "id" : 4,
+        "city_name" : "swabi"
+    }
+]
